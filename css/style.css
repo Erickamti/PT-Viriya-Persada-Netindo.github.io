@@ -13,6 +13,10 @@
   text-decoration: none;
 }
 
+.navbar {
+  background-color: var(--bg);
+}
+
 html {
   scroll-behavior: smooth;
 }
@@ -91,7 +95,7 @@ body {
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background-image: url("../img/header-bg.jpeg.jpg");
+  background-image: url("../img/modern-data-center-providing-cloud-services-enabling-businesses-access-computing-resources-storage-demand-internet-server-room-infrastructure-3d-render-animation.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
